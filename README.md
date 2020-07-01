@@ -6,13 +6,13 @@ https://www.youtube.com/watch?v=p4JgIu1mceI
 # Finding Seeds/Roots
 ## Acquisition 
 ```
-crunchbase
+crunchbase.com
 google.com
 ```
 
 ## ASN Enumeration
 ```
-bgp.ne.net
+bgp.he.net
 echo 'tesla' | metabigor net --org -v 
 amasss intel -asn 46489
 ```
