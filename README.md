@@ -1,4 +1,4 @@
-TL;TR; @jhaddix bug hunter methodology v4 https://www.youtube.com/watch?v=p4JgIu1mceI
+TL;TR; [https://github.com/jhaddix](@jhaddix) bug hunter methodology v4 https://www.youtube.com/watch?v=p4JgIu1mceI
 
 
 # Finding Seeds/Roots
