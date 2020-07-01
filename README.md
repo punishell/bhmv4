@@ -136,8 +136,13 @@ nuclei -l urls.txt -t files/git-core.yaml -o results.txt
 ```
 
 # Rest
-haddix/tbhm/blob/master/v4/all2.txt
+[https://github.com.haddix/tbhm/blob/master/v4/all2.txt](https://github.com.haddix/tbhm/blob/master/v4/all2.txt)
+
 [https://github.com/AdmiralGaust/bountyRecon](https://github.com/AdmiralGaust/bountyRecon)
+
 [https://github.com/offhourscoding/recon](https://github.com/offhourscoding/recon)
+
 [https://github.com/venom26/recon](https://github.com/venom26/recon)
+
 [https://github.com/nahamsec/lazyrecon](https://github.com/nahamsec/lazyrecon)
+
