@@ -57,7 +57,7 @@ subscraper --enum 2 example.com
 ## Subdomain Scraping
 ### Google
 ```
-site:twitch.yv -www.twitch.tv
+site:twitch.tv -www.twitch.tv
 ```
 ### Amass
 ```
