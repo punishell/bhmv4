@@ -34,7 +34,7 @@ https://www.shodan.io/search?query=twitch.tv
 #  Finding Subdomains
 ## Linked Discovery
 ### Gospider
-[https://github.com/jaeles-project/_gospider](GoSpider)
+[https://github.com/jaeles-project/gospider](https://github.com/jaeles-project/gospider)
 ```
 gospider -s https://twitch.tv
 ```
